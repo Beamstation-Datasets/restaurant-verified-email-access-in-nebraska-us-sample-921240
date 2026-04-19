@@ -6,17 +6,17 @@
   "config_category": "email",
   "config_description": "--Reach Independent Inboxes--\n\nWeekly verified, high-deliverability emails.\n\nOnly for established, independent restaurants (or micro-chains) \u2013 large chain enterprises excluded.\n\nWeekly email verification and detailed analysis via our proprietary infrastructure.\n\nBusiness activity validated by an \"Active Heartbeat\" signal.",
   "config_name": "Restaurant Verified Email Access in Nebraska, US",
-  "export_job_id": "57981532-fb51-4798-8b8f-10a98f82f9d5",
+  "export_job_id": "d2e8a288-0f34-4cd4-8de7-788ed78c53fb",
   "github_org": "Beamstation-Datasets",
   "id_short": 921240,
   "location_name": "Nebraska",
   "location_type": "state",
   "repo_name": "restaurant-verified-email-access-in-nebraska-us-sample-921240",
   "sample_b2_path": "b2-export:BeamStation-ExportFiles/921240/beamstation_921240_restaurants-us-ne_SAMPLE_DIST.csv",
-  "sample_pct": 10.59,
+  "sample_pct": 9.92,
   "sample_records": 82,
   "sample_sha256": "10aebfb7ffd3c934e6c7270b10eda3b928174079381bffc8ec966de4327e2b2e",
   "sample_size_bytes": 335901,
-  "total_records": 774,
-  "updated_at": "2026-04-01T01:50:10.199891+00:00"
+  "total_records": 827,
+  "updated_at": "2026-04-15T04:11:34.092917+00:00"
 }
