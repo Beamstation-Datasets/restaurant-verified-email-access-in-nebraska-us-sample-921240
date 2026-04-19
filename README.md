@@ -9,9 +9,9 @@
 | Dataset ID | `921240` |
 | Location | Nebraska |
 | Category | Restaurants |
-| Full dataset size | 774 records |
-| Free sample size | 82 records (10.59%) |
-| Last export | 2026-04-01T01:50:10.199891+00:00 |
+| Full dataset size | 827 records |
+| Free sample size | 82 records (9.92%) |
+| Last export | 2026-04-15T04:11:34.092917+00:00 |
 | Download | [Latest release asset](https://github.com/Beamstation-Datasets/restaurant-verified-email-access-in-nebraska-us-sample-921240/releases/download/sample-latest/beamstation_921240_restaurants-us-ne_SAMPLE_DIST.csv) |
 
 ## What is in this sample
