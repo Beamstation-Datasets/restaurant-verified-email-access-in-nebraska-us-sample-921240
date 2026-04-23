@@ -1,6 +1,6 @@
 # Restaurant Verified Email Access in Nebraska, US
 
-> Free BeamStation sample export with 82 rows and masked direct-contact fields.
+> Free BeamStation sample export with 16 rows and masked direct-contact fields.
 
 ## Snapshot
 
@@ -9,9 +9,9 @@
 | Dataset ID | `921240` |
 | Location | Nebraska |
 | Category | Restaurants |
-| Full dataset size | 827 records |
-| Free sample size | 82 records (9.92%) |
-| Last export | 2026-04-15T04:11:34.092917+00:00 |
+| Full dataset size | 167 records |
+| Free sample size | 16 records (9.58%) |
+| Last export | 2026-04-22T09:42:43.928908+00:00 |
 | Download | [Latest release asset](https://github.com/Beamstation-Datasets/restaurant-verified-email-access-in-nebraska-us-sample-921240/releases/download/sample-latest/beamstation_921240_restaurants-us-ne_SAMPLE_DIST.csv) |
 
 ## What is in this sample
